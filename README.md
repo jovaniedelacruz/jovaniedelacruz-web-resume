@@ -7,7 +7,7 @@ Writing/Editing:
 - [x] Experience
 - [x] Education
 - [x] Skills
-- [ ] Interests
+- [x] Interests
 - [x] Awards
 - [x] Social links
 
